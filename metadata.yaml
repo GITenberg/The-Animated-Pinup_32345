@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35798
 description: You're not expected to believe this story since it's the kind of thing
   that science calls impossible. But anyway, she happened. Who? Why-
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32345#The-Animated-Pinup
 gutenberg_issued: '2010-05-12'
 gutenberg_type: Text
 identifiers:
