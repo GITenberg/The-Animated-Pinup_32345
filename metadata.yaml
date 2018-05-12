@@ -1,0 +1,26 @@
+_repo: The-Animated-Pinup_32345
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32345-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Parker, Lewis
+    gutenberg_agent_id: '35798'
+    url: http://www.gutenberg.org/2009/agents/35798
+description: You're not expected to believe this story since it's the kind of thing
+  that science calls impossible. But anyway, she happened. Who? Why-
+gutenberg_issued: '2010-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Animated Pinup
+url: http://www.gutenberg.org/ebooks/32345
